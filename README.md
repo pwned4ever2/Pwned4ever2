@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 -I am working on cybersecurity and ddos attacks.
 -I am insterested in cyberattackings.
 -I HAVE A FEW PROJECTS I THINK THAT ARE PRETTY GOOD:
